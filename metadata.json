@@ -1,0 +1,5 @@
+{
+  "name": "Kid's Coloring Book & Chat",
+  "description": "An interactive application that generates personalized, printable coloring books for children based on a theme and name. It also features a friendly chatbot for kids to ask questions.",
+  "requestFramePermissions": []
+}
